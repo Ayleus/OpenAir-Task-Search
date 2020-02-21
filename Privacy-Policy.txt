@@ -1,4 +1,7 @@
 Privacy Policy
 
-The OpenAir Task Search extension for Google Chrome does not collect any user data. 
+The OpenAir Task Search extension for Google Chrome does not collect any user data, this includes both personal data and non personally identifiable information. 
 Any data you enter is not logged, transmitted, stored or shared by this software at any time.
+No cookies are created by this software (tracking or otherwise).
+
+This policy was last modified on Feb 21, 2020
