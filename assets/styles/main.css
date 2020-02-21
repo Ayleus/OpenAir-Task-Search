@@ -1,0 +1,44 @@
+.timesheetControlPopup {
+	display: block !important;
+    height: 0 !important;
+    padding: 0 !important;
+    border: 0 !important;
+	max-width: 450px;
+}
+
+.timesheetControl {
+	position: relative;
+}
+
+.chosen-container {
+	position: absolute;
+	top: 3px;
+	
+	width: 100% !important;
+	max-width: 450px;
+    display: block;
+}
+
+.chosen-container::after {
+	content: '▼';
+	position: absolute;
+	font-size: 8px;
+    right: 6px;
+    top: 8px;
+	cursor: pointer;
+}
+
+.chosen-with-drop {
+	width: auto !important;
+	max-width: none !important;
+	min-width: 100% !important;
+}
+
+.chosen-with-drop .chosen-drop {
+	position: relative !important;
+    width: auto !important;
+}
+
+.chosen-container-single .chosen-single span {
+	margin-right: 10px;
+}
