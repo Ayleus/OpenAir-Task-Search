@@ -18,5 +18,5 @@
    "manifest_version": 2,
    "name": "OpenAir Task Search",
    "permissions": [  ],
-   "version": "1.0.4"
+   "version": "1.0.5"
 }
